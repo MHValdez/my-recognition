@@ -1,0 +1,10 @@
+# ignore images
+*.jpg
+
+# ignore constructed files
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+my-recognition
+CMakeFiles/
+
