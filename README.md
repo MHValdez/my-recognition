@@ -10,5 +10,5 @@
 - make
 
 # Usage
-- ./my-recognition <full or relative path to jpeg to be idenitified>
+- ./my-recognition [full or relative path to jpeg to be idenitified]
 
